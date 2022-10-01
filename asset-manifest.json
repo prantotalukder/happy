@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//happy/static/css/main.073c9b0a.css",
+    "main.js": "//happy/static/js/main.e00a10cd.js",
+    "static/js/787.27f336d1.chunk.js": "//happy/static/js/787.27f336d1.chunk.js",
+    "static/media/logo.svg": "//happy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//happy/index.html",
+    "main.073c9b0a.css.map": "//happy/static/css/main.073c9b0a.css.map",
+    "main.e00a10cd.js.map": "//happy/static/js/main.e00a10cd.js.map",
+    "787.27f336d1.chunk.js.map": "//happy/static/js/787.27f336d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e00a10cd.js"
+  ]
+}
